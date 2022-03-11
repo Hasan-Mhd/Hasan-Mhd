@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasan-Mhd
 - 👀 I’m interested in fluttter mobile development 
-- 🌱 I’m currently learning software engeneering
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on flutter mobile development
 - 📫 How to reach me by email hasanalimohamad27@gmail.com
 
